@@ -22,7 +22,8 @@
   "dependencies": {
     "autotrack": "^2.4.1",
     "redux": "^3.7.2",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "yarn": "^1.17.3"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
