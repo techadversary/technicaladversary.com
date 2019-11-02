@@ -16,7 +16,7 @@
     "locale": "en-US"
   },
   "hashtag": "adversary",
-  "disabledSchedule": false,
+  "disabledSchedule": true,
   "showSessionShortAbstract": true,
   "navigation": [
     {

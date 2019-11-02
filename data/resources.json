@@ -1,8 +1,8 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Be a hero. Be a GDG!",
+  "title": "Technical Adversary 2020",
+  "description": "",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "keywords": "event, hacker, redteam, blueteam, security, adversary, dfir, appsec, devsecops, developers, web, cloud, techadversary",
   "dates": "October 12-13, 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
@@ -36,44 +36,44 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "Technical Adversary",
+          "url": "http://technicaladversary.com/",
           "newTab": true
         },
         {
-          "name": "Google Developers Group",
-          "url": "https://developers.google.com/groups/",
+          "name": "OWASP Seattle Meetup",
+          "url": "https://www.meetup.com/Seattle-Open-Web-Application-Security-Project-OWASP-Chapter/",
           "newTab": true
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "url": "http://technicaladversary.com/team/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Explore Past Meetups",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "Previous Speakers",
+          "url": "https://www.youtube.com/watch?v=cfgP-LP9AbA&list=PLBID4NiuWSmfDVM-oH2tCHwqJIJWSt3k-",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
+          "name": "Previous OWASP meetups",
+          "url": "https://www.meetup.com/Seattle-Open-Web-Application-Security-Project-OWASP-Chapter/events/past/",
           "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
-          "newTab": true
+#        },
+#        {
+#          "name": "DFUA 2015",
+#          "url": "https://dfua15.firebaseapp.com/",
+#          "newTab": true
+#        },
+#        {
+#          "name": "DFUA 2016",
+#          "url": "https://dfua16.firebaseapp.com/",
+#          "newTab": true
         }
       ]
     },
@@ -114,20 +114,20 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "Technical Adversary brings together world class experts security, threat research, and web and cloud technologies for 2 days of sessions, workshops and showcases.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "Link to a could-maybe-be-established youtube channel in the future.",
+        "label": "In dayes of yore",
+        "youtubeId": "youtube channel ID"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "300"
       },
       "days": {
         "label": "Days",
@@ -135,11 +135,11 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "10"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "2"
       }
     }
   },
@@ -152,9 +152,9 @@
   },
   "partnersBlock": {
     "title": "Partners",
-    "button": "Become a partner",
+    "button": "Become a sponsor",
     "form": {
-      "title": "Become a partner!",
+      "title": "Become a sponsor!",
       "submitLabel": "Submit",
       "fullName": "Full Name",
       "companyName": "Company Name"
@@ -162,7 +162,7 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "Past talks",
     "callToAction": {
       "label": "See all videos",
       "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
@@ -185,7 +185,7 @@
     "previousYear": "Year"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Inspiring speakers",
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers/"
@@ -199,11 +199,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "highlights",
+    "description": "Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "link": "https://goo.gl/photos/ photo album link here"
     }
   },
   "mapBlock": {
@@ -218,7 +218,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about Technical Adversary sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
@@ -260,18 +260,18 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='http://organizing link here' target='_blank'>Technical Adversary</a> ",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "What is Technical Adversary?",
+        "description": "Technical Adversary - is vetted and security peer group create exciting projects and share experience about Google technologies with a passion",
         "callToAction": {
           "label": "Read more",
-          "link": "https://developers.google.com/groups/",
+          "link": "https://mission statement stuff",
           "newTab": true
         }
       }
